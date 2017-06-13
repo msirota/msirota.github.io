@@ -48,6 +48,33 @@
   font-size: 1.7vw;
 }
 
+.nav li a:hover {
+  color: #6ea400;
+  background-color: white;
+  transition: 0.3s;
+}
+
+footer {
+  position:absolute;
+  bottom:0;
+  padding: 3vw 10vw;
+  width:100%;
+  height: 10vw;
+  color: white;
+  background: #062147;
+  font-size: 3vw;
+}
+
+footer i {
+  color: white;
+  padding-left: 1.5vw;
+}
+
+footer i:hover {
+  color: #6ea400;
+  transition: 0.3s;
+}
+
 @media (max-width: 767px) {
   .labname {
     font-size: 5vw;
@@ -61,5 +88,11 @@
   }
   .nav li a {
     font-size: 3.5vw;
+  }
+  footer {
+    font-size: 4vw;
+  }
+  footer i {
+    padding-left: 2vw;
   }
 }
