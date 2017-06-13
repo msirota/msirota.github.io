@@ -2,14 +2,15 @@
 
 To-Do List:
 - [x] Place images into seperate image directory
-- [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
+- [x] Remove extraneuous files, e.g. in apps (This step after each change and at end)
 - [ ] Create 'landing' page that will eventually replace index; use Bootstrap
-    - [ ] Create head material to load bootstrap and all other desired libraries
+    - [x] Create head material to load bootstrap and all other desired libraries
     - [ ] Create bootstrap navbar to be used on all pages
     - [ ] Create social media footer to be used on all pages 
     - [ ] Think of ways to use Vue for repitition
     - [ ] Move images in "uploads" to images directory, remove it
     - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
+- [ ] Replace index.html
 - [ ] Redo 'research' page
     - [ ] Move images in "uploads" to images directory, remove it
     - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
