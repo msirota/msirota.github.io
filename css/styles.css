@@ -1,0 +1,26 @@
+.navbar {
+  height: 100px;
+}
+
+.workName {
+  width: 75vw;
+}
+
+.logo-fluid {
+  width: 10vw;
+}
+
+.labname {
+  color: #062147;
+  font-size: 4vw;
+}
+
+.navbar-toggle {
+  border-color: #062147;
+  margin-top: 4vw;
+  margin-right: 30px;
+}
+
+.icon-bar {
+  background-color: #062147;
+}
