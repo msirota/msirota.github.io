@@ -1,9 +1,17 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
 .navbar {
   height: 100px;
 }
 
 .workName {
   width: 75vw;
+}
+
+.navbar>.container-fluid .navbar-brand {
+  margin-left: 4vw;
 }
 
 .logo-fluid {
@@ -17,10 +25,41 @@
 
 .navbar-toggle {
   border-color: #062147;
-  margin-top: 4vw;
+  margin-top: 3vw;
   margin-right: 30px;
 }
 
 .icon-bar {
   background-color: #062147;
+}
+
+.navbar-center {
+  margin-left: 10vw;
+  margin-top: 5vw;
+  margin-right: 10vw;
+}
+
+.navbar-collapse {
+  text-align: center;
+}
+
+.nav li a {
+  color: #062147;
+  font-size: 1.7vw;
+}
+
+@media (max-width: 767px) {
+  .labname {
+    font-size: 5vw;
+    margin-top: 15px;
+  }
+  .navbar>.container-fluid .navbar-brand {
+    margin-left: 0;
+  }
+  .workName {
+    margin-top: -10px;
+  }
+  .nav li a {
+    font-size: 3.5vw;
+  }
 }
