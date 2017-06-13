@@ -7,9 +7,9 @@ To-Do List:
     - [x] Create head material to load bootstrap and all other desired libraries
     - [x] Create bootstrap navbar to be used on all pages
     - [x] Create social media footer to be used on all pages 
-    - [ ] Think of ways to use Vue for repitition
     - [ ] Move images in "uploads" to images directory, remove it
     - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
+    - [ ] Think of ways to use Vue for repitition
 - [ ] Replace index.html
     - [ ] Make icon and about the lab link to index
 - [ ] Redo 'research' page
