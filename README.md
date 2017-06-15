@@ -34,15 +34,16 @@ To-Do List:
     - [x] Fix file names of images
     - [x] Replace head, navigation, and footer
     - [x] Replace content
-- [ ] Redo 'open positions' page
-    - [ ] Replace head, navigation, and footer
-    - [ ] Replace content
+- [x] Redo 'open positions' page
+    - [x] Replace head, navigation, and footer
+    - [x] Replace content
+- [ ] Fix margin issue above footer on each page
+- [ ] Make `<b>` or `<strong>` consistent and actually bold
+- [ ] Make images on Research page match placement of images on People page
 - [ ] Refactor with Vue
     - [ ] Any repeated content, use string interpolation
     - [ ] Any long lists, add a search feature
 - [ ] Final audit of all files on site
-- [ ] Make `<b>` or `<strong>` consistent and actually bold
-- [ ] Make images on Research page match placement of images on People page
 - [ ] Image optimization audit
 - [ ] SEO audit
 - [ ] W3C audit
