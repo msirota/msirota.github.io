@@ -5,6 +5,11 @@
   src: url('Agane45.ttf');
 }
 
+@font-face{
+  font-family: 'AganeBold';
+  src: url('Agane65.ttf');
+}
+
 * {
   font-family: 'Agane', helvetica, sans-serif;
 }
@@ -104,6 +109,10 @@ footer i:hover {
 .body {
   margin-top: 5vw;
   padding: 120px 10vw 0 10vw;
+}
+
+h1, h2 {
+  font-family: 'AganeBold', helvetica, sans-serif;
 }
 
 h2 {
@@ -242,4 +251,8 @@ a:hover {
     height: auto;
     margin-bottom: 5vw;
   }
+}
+
+strong {
+  font-family: 'AganeBold', helvetica, sans-serif;
 }
