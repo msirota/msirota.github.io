@@ -39,7 +39,7 @@ To-Do List:
     - [x] Replace content
 - [x] Fix margin issue above footer on each page
 - [x] Make `<b>` or `<strong>` consistent and actually bold
-- [ ] Make images on Research page match placement of images on People page
+~~- [ ] Make images on Research page match placement of images on People page~~
 - [ ] Refactor with Vue
     - [ ] Any repeated content, use string interpolation
     - [ ] Any long lists, add a search feature
