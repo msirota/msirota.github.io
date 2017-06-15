@@ -31,6 +31,7 @@ To-Do List:
     - [x] Replace head, navigation, and footer
     - [x] Replace content
 - [ ] Redo 'teaching' page
+    - [x] Fix file names of images
     - [ ] Replace head, navigation, and footer
     - [ ] Replace content
 - [ ] Redo 'open positions' page
