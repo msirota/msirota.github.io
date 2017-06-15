@@ -149,11 +149,13 @@ a:hover {
   height: 100%; 
 }
 
-/*Research*/
-
-.research-section {
+.sub-section {
   margin-top: 2.5vw;
   margin-bottom: 2.5vw;
+}
+
+.description-section {
+  margin-top: 2.5vw;
 }
 
 /*Mobile*/
@@ -195,5 +197,8 @@ a:hover {
   }
   .body {
     padding: 9vw 5vw 0 5vw;
+  }
+  .description-section {
+    margin-top: 0;
   }
 }

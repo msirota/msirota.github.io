@@ -19,10 +19,11 @@ To-Do List:
     at end)
     - [x] Make icon and about the lab link to index
 - [ ] Redo 'people' page
-    - [ ] Replace head, navigation, and footer
-    - [ ] Move images in "uploads" to images directory, remove it
-    - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
-    - [ ] Make icon and about the lab link to index
+    - [x] Replace head, navigation, and footer
+    - [x] Move images in "uploads" to images directory, remove it
+    - [x] Remove extraneuous files, e.g. in apps (This step after each change and
+    at end)
+    - [x] Make icon and about the lab link to index
 - [ ] Redo 'publications' page
     - [ ] Replace head, navigation, and footer
     - [ ] Move images in "uploads" to images directory, remove it
