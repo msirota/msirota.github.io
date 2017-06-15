@@ -27,9 +27,9 @@ To-Do List:
     - [x] Replace content
     - [x] Find and add links to each person!!!
     - [x] Clearfix or equal out column heights; use grid
-- [ ] Redo 'publications' page
+- [x] Redo 'publications' page
     - [x] Replace head, navigation, and footer
-    - [ ] Replace content
+    - [x] Replace content
 - [ ] Redo 'teaching' page
     - [ ] Replace head, navigation, and footer
     - [ ] Replace content

@@ -180,6 +180,10 @@ a:hover {
   margin-bottom: 5vw;
 }
 
+#publication-list {
+  margin-bottom: 5vw;
+}
+
 /*Mobile*/
 
 @media (max-width: 767px) {
