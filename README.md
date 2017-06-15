@@ -37,7 +37,7 @@ To-Do List:
 - [x] Redo 'open positions' page
     - [x] Replace head, navigation, and footer
     - [x] Replace content
-- [ ] Fix margin issue above footer on each page
+- [x] Fix margin issue above footer on each page
 - [ ] Make `<b>` or `<strong>` consistent and actually bold
 - [ ] Make images on Research page match placement of images on People page
 - [ ] Refactor with Vue

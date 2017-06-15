@@ -86,6 +86,7 @@ footer {
   color: white;
   background: #062147;
   font-size: 3vw;
+  margin-top: 3vw;
 }
 
 footer i {
@@ -147,7 +148,7 @@ a:hover {
   height: 0; 
   overflow: hidden; 
   max-width: 100%; 
-  margin: 5vw;
+  margin-top: 2vw;
 } 
 
 .embed-container iframe, .embed-container object, .embed-container embed { 
@@ -176,16 +177,6 @@ a:hover {
 
 #group-photo {
   margin: 5vw 0 5vw 0;
-}
-
-#collaborators {
-  margin-bottom: 5vw;
-}
-
-/*Publications*/
-
-#publication-list {
-  margin-bottom: 5vw;
 }
 
 /*Teaching*/
