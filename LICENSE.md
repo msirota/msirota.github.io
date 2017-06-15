@@ -1,2 +1,3 @@
 Marina Sirota Lab web site.
-Boris Oskotsky, UCSF
+v1 Boris Oskotsky, UCSF
+v2 Aron Eidelman, eideldev.com

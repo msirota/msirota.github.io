@@ -110,6 +110,12 @@ h2 {
   color: #716fb2;
 }
 
+h3 {
+  margin-top: 0;
+  font-size: 2vw;
+  color: #716fb2;
+}
+
 .img-fluid {
   width: 80%;
 }
@@ -143,6 +149,13 @@ a:hover {
   height: 100%; 
 }
 
+/*Research*/
+
+.research-section {
+  margin-top: 2.5vw;
+  margin-bottom: 2.5vw;
+}
+
 /*Mobile*/
 
 @media (max-width: 767px) {
@@ -153,8 +166,14 @@ a:hover {
   .body {
     margin-top: 7vw;
   }
+  h2 {
+    font-size: 5vw;
+  }
+  h3 {
+    font-size: 4vw;
+  }
   p {
-    font-size: 12px;
+    font-size: 3vw;
   }
   .navbar-header {
     box-shadow: 0 1px 0 #052049;
