@@ -26,7 +26,7 @@ To-Do List:
     - [x] Make icon and about the lab link to index
     - [x] Replace content
     - [ ] Find and add links to each person!!!
-    - [ ] Clearfix or equal out column heights; use grid
+    - [x] Clearfix or equal out column heights; use grid
 - [ ] Redo 'publications' page
     - [ ] Replace head, navigation, and footer
     - [ ] Replace content
