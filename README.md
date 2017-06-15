@@ -24,21 +24,23 @@ To-Do List:
     - [x] Remove extraneuous files, e.g. in apps (This step after each change and
     at end)
     - [x] Make icon and about the lab link to index
+    - [x] Replace content
+    - [ ] Find and add links to each person!!!
+    - [ ] Clearfix or equal out column heights; use grid
 - [ ] Redo 'publications' page
     - [ ] Replace head, navigation, and footer
-    - [ ] Move images in "uploads" to images directory, remove it
-    - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
-    - [ ] Make icon and about the lab link to index
+    - [ ] Replace content
 - [ ] Redo 'teaching' page
     - [ ] Replace head, navigation, and footer
-    - [ ] Move images in "uploads" to images directory, remove it
-    - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
-    - [ ] Make icon and about the lab link to index
+    - [ ] Replace content
 - [ ] Redo 'open positions' page
     - [ ] Replace head, navigation, and footer
-    - [ ] Move images in "uploads" to images directory, remove it
-    - [ ] Remove extraneuous files, e.g. in apps (This step after each change and at end)
-    - [ ] Make icon and about the lab link to index
+    - [ ] Replace content
+- [ ] Refactor with Vue
+- [ ] Final audit of all files on site
+- [ ] Image optimization audit
+- [ ] SEO audit
+- [ ] W3C audit
 - [ ] Write documentation for how to edit: 
     - [ ] Vue 
     - [ ] Bootstrap
