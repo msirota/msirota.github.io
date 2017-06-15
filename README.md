@@ -18,17 +18,17 @@ To-Do List:
     - [x] Remove extraneuous files, e.g. in apps (This step after each change and
     at end)
     - [x] Make icon and about the lab link to index
-- [ ] Redo 'people' page
+- [x] Redo 'people' page
     - [x] Replace head, navigation, and footer
     - [x] Move images in "uploads" to images directory, remove it
     - [x] Remove extraneuous files, e.g. in apps (This step after each change and
     at end)
     - [x] Make icon and about the lab link to index
     - [x] Replace content
-    - [ ] Find and add links to each person!!!
+    - [x] Find and add links to each person!!!
     - [x] Clearfix or equal out column heights; use grid
 - [ ] Redo 'publications' page
-    - [ ] Replace head, navigation, and footer
+    - [x] Replace head, navigation, and footer
     - [ ] Replace content
 - [ ] Redo 'teaching' page
     - [ ] Replace head, navigation, and footer
@@ -37,7 +37,11 @@ To-Do List:
     - [ ] Replace head, navigation, and footer
     - [ ] Replace content
 - [ ] Refactor with Vue
+    - [ ] Any repeated content, use string interpolation
+    - [ ] Any long lists, add a search feature
 - [ ] Final audit of all files on site
+- [ ] Make `<b>` or `<strong>` consistent and actually bold
+- [ ] Make images on Research page match placement of images on People page
 - [ ] Image optimization audit
 - [ ] SEO audit
 - [ ] W3C audit
