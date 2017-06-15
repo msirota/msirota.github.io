@@ -30,10 +30,10 @@ To-Do List:
 - [x] Redo 'publications' page
     - [x] Replace head, navigation, and footer
     - [x] Replace content
-- [ ] Redo 'teaching' page
+- [x] Redo 'teaching' page
     - [x] Fix file names of images
-    - [ ] Replace head, navigation, and footer
-    - [ ] Replace content
+    - [x] Replace head, navigation, and footer
+    - [x] Replace content
 - [ ] Redo 'open positions' page
     - [ ] Replace head, navigation, and footer
     - [ ] Replace content

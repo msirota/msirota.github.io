@@ -167,6 +167,8 @@ a:hover {
   margin-top: 2.5vw;
 }
 
+/*People*/
+
 .person {
   height: 40vw;
   margin-bottom: 5vw;
@@ -180,8 +182,24 @@ a:hover {
   margin-bottom: 5vw;
 }
 
+/*Publications*/
+
 #publication-list {
   margin-bottom: 5vw;
+}
+
+/*Teaching*/
+
+.poster {
+  border: 10px solid #716fb2;
+  box-shadow: 5px 5px 5px #888888;
+  transition: 0.3s;
+}
+
+.poster:hover {
+  border: 10px solid #6ea400;
+  box-shadow: 10px 10px 5px #888888;
+  transition: 0.3s;
 }
 
 /*Mobile*/
