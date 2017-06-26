@@ -1,8 +1,6 @@
 # msirota.github.io
 
 To-Do List:
-
-6/15:
 - [x] Place images into seperate image directory
 - [x] Remove extraneuous files, e.g. in apps (This step after each change and at end)
 - [x] Create 'landing' page that will eventually replace index; use Bootstrap
@@ -41,10 +39,7 @@ To-Do List:
     - [x] Replace content
 - [x] Fix margin issue above footer on each page
 - [x] Make `<b>` or `<strong>` consistent and actually bold
-
-6/25:
-- [ ] Add option 1: margin shading
-- [ ] Add option 2: box coloring
+~~- [ ] Make images on Research page match placement of images on People page~~
 - [ ] Refactor with Vue
     - [ ] Any repeated content, use string interpolation
     - [ ] Any long lists, add a search feature
