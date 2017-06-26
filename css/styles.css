@@ -1,11 +1,11 @@
 /*Universal*/
 
-@font-face{
+@font-face {
   font-family: 'Agane';
   src: url('Agane45.ttf');
 }
 
-@font-face{
+@font-face {
   font-family: 'AganeBold';
   src: url('Agane65.ttf');
 }
@@ -108,7 +108,10 @@ footer i:hover {
 
 .body {
   margin-top: 5vw;
-  padding: 120px 10vw 0 10vw;
+  padding-top: 120px;
+  border-style: solid; 
+  border-width: 0 10vw 0 10vw;
+  border-color: gray;
 }
 
 h1, h2 {
