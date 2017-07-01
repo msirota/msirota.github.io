@@ -273,7 +273,7 @@ strong {
 
 #double-helix {
   position: fixed;
-  left: 47%;
+  right: 10%;
   z-index: -1;
 }
 
@@ -303,19 +303,19 @@ strong {
 }
 
 .dots__dot:nth-child(6n+3) {
-  background: #d2cffe;
+  background: #6be9f9;
 }
 
 .dots__dot:nth-child(6n+4) {
-  background: #f0cafd;
+  background: #c9ecfc;
 }
 
 .dots__dot:nth-child(6n+5) {
-  background: #fdd8ea;
+  background: #d9f5fc;
 }
 
 .dots__dot:nth-child(6n+6) {
-  background: #ffe3df;
+  background: #e0faff;
 }
 
 .dots__dot:nth-child(1) {
