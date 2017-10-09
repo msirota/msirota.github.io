@@ -8,7 +8,7 @@ To-Do List:
 - [x] Create 'landing' page that will eventually replace index; use Bootstrap
     - [x] Create head material to load bootstrap and all other desired libraries
     - [x] Create bootstrap navbar to be used on all pages
-    - [x] Create social media footer to be used on all pages 
+    - [x] Create social media footer to be used on all pages
     - [x] Move images in "uploads" to images directory, remove it
     - [x] Remove extraneuous files, e.g. in apps (This step after each change and at end)
     - [x] Think of ways to use Vue for repitition
@@ -42,18 +42,20 @@ To-Do List:
 - [x] Fix margin issue above footer on each page
 - [x] Make `<b>` or `<strong>` consistent and actually bold
 
-6/25:
-- [ ] Add option 1: margin shading
-- [ ] Add option 2: box coloring
-- [ ] Refactor with Vue
-    - [ ] Any repeated content, use string interpolation
-    - [ ] Any long lists, add a search feature
-- [ ] Final audit of all files on site
-- [ ] Image optimization audit
-- [ ] SEO audit
-- [ ] W3C audit
-- [ ] Write documentation for how to edit: 
-    - [ ] Vue 
-    - [ ] Bootstrap
-    - [ ] Anything site-specific
-    - [ ] Include contact details
+10/9:
+- [x] Remove double helix
+- [ ] Add new logo
+- [ ] Refactor as single-page site
+    - [ ] Research
+    - [ ] People
+    - [ ] Open Positions
+    - [ ] Teaching
+    - [ ] Publications
+- [ ] Anchor and single-page scrolling navigation
+- [ ] Set body in margins
+- [ ] Set all images to max original size
+- [ ] Network effect in side margins
+- [ ] Create various options for coloration
+- [ ] Write documentation for how to:
+    - [ ] Add and remove team members
+    - [ ] Add and remove publications
