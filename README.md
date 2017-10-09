@@ -44,7 +44,7 @@ To-Do List:
 
 10/9:
 - [x] Remove double helix
-- [ ] Add new logo
+- [x] Add new logo
 - [ ] Refactor as single-page site
     - [ ] Research
     - [ ] People
@@ -52,9 +52,11 @@ To-Do List:
     - [ ] Teaching
     - [ ] Publications
 - [ ] Anchor and single-page scrolling navigation
+- [ ] Reformat navigation
 - [ ] Set body in margins
 - [ ] Set all images to max original size
 - [ ] Network effect in side margins
+- [ ] Favicon of Sirota Lab logo
 - [ ] Create various options for coloration
 - [ ] Write documentation for how to:
     - [ ] Add and remove team members
