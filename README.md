@@ -69,6 +69,7 @@ To-Do List:
 - [x] Enlarge logos
 
 10/10
+- [ ] Correct sizing of navigation LIs in mobile dropdown
 - [ ] Single-page smooth scrolling
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
