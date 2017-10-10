@@ -40,12 +40,14 @@ body {
   background: white;
 }
 
-.workName {
-  width: 75vw;
+.sirota-logo {
+  padding: 10px;
+  margin-left: 20px;
 }
 
-.navbar>.container-fluid .navbar-brand {
-  margin-left: 4vw;
+#sirota-helix {
+  width: 50px;
+  float: left;
 }
 
 .logo-fluid {
@@ -53,8 +55,11 @@ body {
 }
 
 .labname {
+  display: inline-block;
   color: #062147;
-  font-size: 4vw;
+  font-size: 42px;
+  padding: 10px;
+  margin-top: 18px;
 }
 
 .navbar-toggle {
@@ -217,10 +222,6 @@ a:hover {
 /*Mobile*/
 
 @media (max-width: 767px) {
-  .labname {
-    font-size: 5vw;
-    margin-top: 15px;
-  }
   .body {
     margin-top: 3vw;
     padding: 60px 5vw 0 5vw;

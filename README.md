@@ -52,7 +52,7 @@ To-Do List:
     - [x] Teaching
     - [x] Publications
 - [x] Anchor navigation
-- [ ] single-page scrolling
+- [ ] Resize logo
 - [ ] Reformat navigation
 - [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Set body in margins
@@ -60,6 +60,7 @@ To-Do List:
 - [ ] Network effect in side margins
 - [ ] Create various options for coloration
 - [ ] Send to Marina
+- [ ] Single-page scrolling
 - [ ] Favicon of Sirota Lab logo
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
