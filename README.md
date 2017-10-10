@@ -49,15 +49,18 @@ To-Do List:
     - [x] Research
     - [x] People
     - [x] Open Positions
-    - [ ] Teaching
+    - [x] Teaching
     - [ ] Publications
 - [ ] Anchor and single-page scrolling navigation
 - [ ] Reformat navigation
 - [ ] Set body in margins
 - [ ] Set all images to max original size
 - [ ] Network effect in side margins
-- [ ] Favicon of Sirota Lab logo
 - [ ] Create various options for coloration
+- [ ] Send to Marina
+- [ ] Favicon of Sirota Lab logo
+- [ ] Add icons to Teaching
+- [ ] Remove flyers from Teaching
 - [ ] Write documentation for how to:
     - [ ] Add and remove team members
     - [ ] Add and remove publications
