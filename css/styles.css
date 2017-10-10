@@ -37,28 +37,26 @@
 
 .sirota-logo {
   padding: 10px;
-  margin-left: 20px;
-  width: 166px;
+  width: 260px;
   display: inline-block;
 }
 
 #sirota-helix {
-  width: 25px;
+  width: 40px;
   float: left;
 }
 
 .labname {
   display: inline-block;
   color: #062147;
-  padding: 10px;
-  font-size: 21px;
-  margin-top: 5px;
+  font-size: 40px;
+  margin-top: 10px;
 }
 
 .navbar-toggle {
   border-color: #062147;
-  margin-top: 20px;
-  margin-right: 30px;
+  margin-top: 25px;
+  margin-right: 10px;
 }
 
 .icon-bar {
@@ -79,19 +77,28 @@
 
 .nav li a:hover {
   color: #6ea400;
-  background-color: white;
   transition: 0.3s;
 }
 
 #ucsf-logo {
-  width: 58px;
-  margin-top: -3px;
+  width: 80px;
+  margin-top: -12px;
   display: none;
+}
+
+#ucsf-logo:parent {
+  display: none;
+  padding: 0;
 }
 
 .nav-bar-desktop {
   background-color: #efefef;
   box-shadow: 0 2px 0 #052049;
+}
+
+ul.nav.navbar-nav.navbar-center a {
+  padding: 26px 11px;
+  text-transform: uppercase;
 }
 
 section {
@@ -112,6 +119,10 @@ section:nth-child(even) {
 
 section:nth-child(even) p {
   color: black
+}
+
+ul.nav.navbar-nav.navbar-center {
+  float: right;
 }
 
 /*Footer*/
@@ -232,6 +243,16 @@ a:hover {
 /*Mobile*/
 
 @media (max-width: 767px) {
+  #sirota-helix {
+    width: 40px;
+  }
+  .sirota-logo {
+    margin-left: 0;
+    width: 300px;
+  }
+  h1.labname {
+    font-size: 40px;
+  }
   h2 {
     font-size: 5vw;
   }
@@ -289,15 +310,16 @@ a:hover {
   }
 }
 
-@media (min-width: 880px) {
+@media (min-width: 892px) {
   #ucsf-logo {
     display: inline-block;
   }
+  #ucsf-logo:parent {
+    display: inline-block;
+    padding: 15px;
+  }
   ul.nav.navbar-nav.navbar-center a {
     font-size: 14px;
-  }
-  ul.nav.navbar-nav.navbar-center {
-    float: right;
   }
   .nav-wrapper {
     /* Make max-width same as column width */

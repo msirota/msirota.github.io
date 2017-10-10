@@ -65,7 +65,10 @@ To-Do List:
 - [x] Fix footer position
 - [x] Adjust navigation background color
 - [x] Make max-width of nav same as body
-- [ ] Full-width sections
+- [x] Full-width sections
+- [x] Enlarge logos
+
+10/10
 - [ ] Single-page smooth scrolling
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
