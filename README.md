@@ -62,6 +62,7 @@ To-Do List:
 - [x] Create various options for coloration
 - [x] Create top margin for sections to compensate for nav-bar size
 - [x] Float logos
+- [x] Fix footer position
 - [x] Adjust navigation background color
 - [ ] Add new team members and portraits
 - [ ] Even out the padding
