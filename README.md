@@ -48,7 +48,7 @@ To-Do List:
 - [ ] Refactor as single-page site
     - [x] Research
     - [x] People
-    - [ ] Open Positions
+    - [x] Open Positions
     - [ ] Teaching
     - [ ] Publications
 - [ ] Anchor and single-page scrolling navigation
