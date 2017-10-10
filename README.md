@@ -60,13 +60,13 @@ To-Do List:
 - [x] Replace all VW with pixel values
 - [x] Network effect in side margins
 - [x] Create various options for coloration
-- [ ] Send to Marina
+- [x] Create top margin for sections to compensate for nav-bar size
+- [x] Float logos
+- [x] Adjust navigation background color
 - [ ] Add new team members and portraits
 - [ ] Even out the padding
 - [ ] Single-page scrolling
-- [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Make max-width of nav same as body
-- [ ] Float logos
 - [ ] Favicon of Sirota Lab logo
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching

@@ -25,11 +25,11 @@
 }
 
 .navbar-header {
-  background: white;
+  background: #efefef;
 }
 
 .navbar-collapse {
-  background: white;
+  background: #efefef;
 }
 
 .sirota-logo {
@@ -67,7 +67,7 @@
 }
 
 .nav {
-  background: white;
+  background: #efefef;
 }
 
 .nav li a {
@@ -87,7 +87,7 @@
 }
 
 .nav-bar-desktop {
-  background-color: white;
+  background-color: #efefef;
   box-shadow: 0 2px 0 #052049;
 }
 
