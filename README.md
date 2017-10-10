@@ -57,7 +57,7 @@ To-Do List:
 - [x] Reformat navigation
 - [x] Set body in margins
 - [x] Set all images to max original size
-- [ ] Replace all VW with pixel values
+- [x] Replace all VW with pixel values
 - [ ] Network effect in side margins
 - [ ] Create various options for coloration
 - [ ] Send to Marina
