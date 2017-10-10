@@ -47,7 +47,7 @@ To-Do List:
 - [x] Add new logo
 - [ ] Refactor as single-page site
     - [x] Research
-    - [ ] People
+    - [x] People
     - [ ] Open Positions
     - [ ] Teaching
     - [ ] Publications
