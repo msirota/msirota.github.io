@@ -54,7 +54,7 @@ To-Do List:
 - [x] Anchor navigation
 - [x] Resize logo
 - [x] Reformat logo and toggle button for mobile
-- [ ] Reformat navigation
+- [x] Reformat navigation
 - [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Set body in margins
 - [ ] Set all images to max original size
@@ -62,6 +62,8 @@ To-Do List:
 - [ ] Create various options for coloration
 - [ ] Send to Marina
 - [ ] Single-page scrolling
+- [ ] Make max-width of nav same as body
+- [ ] Float logos
 - [ ] Favicon of Sirota Lab logo
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching

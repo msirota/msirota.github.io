@@ -52,10 +52,6 @@ body {
   float: left;
 }
 
-.logo-fluid {
-  width: 3vw;
-}
-
 .labname {
   display: inline-block;
   color: #062147;
@@ -82,7 +78,6 @@ body {
 
 .navbar-collapse {
   text-align: center;
-  box-shadow: 0 2px 0 #052049;
 }
 
 .nav {
@@ -98,6 +93,17 @@ body {
   color: #6ea400;
   background-color: white;
   transition: 0.3s;
+}
+
+#ucsf-logo {
+  width: 58px;
+  margin-top: -3px;
+  display: none;
+}
+
+.nav-bar-desktop {
+  background-color: white;
+  box-shadow: 0 2px 0 #052049;
 }
 
 /*Footer*/
@@ -258,7 +264,6 @@ a:hover {
   footer i {
     padding-left: 2vw;
   }
-
   .description-section {
     margin-top: 0;
   }
@@ -266,6 +271,38 @@ a:hover {
     height: auto;
     margin-bottom: 5vw;
   }
+}
+
+@media (min-width: 768px) {
+  .sirota-logo {
+    width: 166px;
+  }
+  #sirota-helix {
+    width: 25px;
+  }
+  .labname {
+    font-size: 21px;
+    margin-top: 5px;
+  }
+  ul.nav.navbar-nav.navbar-center {
+    margin: 0;
+    padding-top: 14px;
+  }
+  ul.nav.navbar-nav.navbar-center a {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 880px) {
+  #ucsf-logo {
+    display: inline-block;
+  }
+  .nav-wrapper {
+    /* Make max-width same as column width */
+    max-width: 850px;
+    margin: auto;
+  }
+  /*Float logos internally*/
 }
 
 strong {
