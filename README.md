@@ -51,8 +51,10 @@ To-Do List:
     - [x] Open Positions
     - [x] Teaching
     - [x] Publications
-- [ ] Anchor and single-page scrolling navigation
+- [x] Anchor navigation
+- [ ] single-page scrolling
 - [ ] Reformat navigation
+- [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Set body in margins
 - [ ] Set all images to max original size
 - [ ] Network effect in side margins
