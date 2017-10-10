@@ -46,7 +46,7 @@ To-Do List:
 - [x] Remove double helix
 - [x] Add new logo
 - [ ] Refactor as single-page site
-    - [ ] Research
+    - [x] Research
     - [ ] People
     - [ ] Open Positions
     - [ ] Teaching
