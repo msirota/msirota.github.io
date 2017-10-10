@@ -55,13 +55,13 @@ To-Do List:
 - [x] Resize logo
 - [x] Reformat logo and toggle button for mobile
 - [x] Reformat navigation
-- [ ] Create top margin for sections to compensate for nav-bar size
-- [ ] Set body in margins
+- [x] Set body in margins
 - [ ] Set all images to max original size
 - [ ] Network effect in side margins
 - [ ] Create various options for coloration
 - [ ] Send to Marina
 - [ ] Single-page scrolling
+- [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Make max-width of nav same as body
 - [ ] Float logos
 - [ ] Favicon of Sirota Lab logo
