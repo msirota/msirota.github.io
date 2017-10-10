@@ -64,13 +64,13 @@ To-Do List:
 - [x] Float logos
 - [x] Fix footer position
 - [x] Adjust navigation background color
+- [x] Make max-width of nav same as body
 - [ ] Add new team members and portraits
-- [ ] Even out the padding
 - [ ] Single-page scrolling
-- [ ] Make max-width of nav same as body
-- [ ] Favicon of Sirota Lab logo
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
+- [ ] Even out the padding
+- [ ] Favicon of Sirota Lab logo
 - [ ] Write documentation for how to:
     - [ ] Add and remove team members
     - [ ] Add and remove publications
