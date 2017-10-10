@@ -58,9 +58,11 @@ To-Do List:
 - [x] Set body in margins
 - [x] Set all images to max original size
 - [x] Replace all VW with pixel values
-- [ ] Network effect in side margins
-- [ ] Create various options for coloration
+- [x] Network effect in side margins
+- [x] Create various options for coloration
 - [ ] Send to Marina
+- [ ] Add new team members and portraits
+- [ ] Even out the padding
 - [ ] Single-page scrolling
 - [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Make max-width of nav same as body
