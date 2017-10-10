@@ -50,7 +50,7 @@ To-Do List:
     - [x] People
     - [x] Open Positions
     - [x] Teaching
-    - [ ] Publications
+    - [x] Publications
 - [ ] Anchor and single-page scrolling navigation
 - [ ] Reformat navigation
 - [ ] Set body in margins
