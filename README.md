@@ -52,7 +52,8 @@ To-Do List:
     - [x] Teaching
     - [x] Publications
 - [x] Anchor navigation
-- [ ] Resize logo
+- [x] Resize logo
+- [x] Reformat logo and toggle button for mobile
 - [ ] Reformat navigation
 - [ ] Create top margin for sections to compensate for nav-bar size
 - [ ] Set body in margins

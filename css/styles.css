@@ -43,6 +43,8 @@ body {
 .sirota-logo {
   padding: 10px;
   margin-left: 20px;
+  width: 291px;
+  display: inline-block;
 }
 
 #sirota-helix {
@@ -64,7 +66,7 @@ body {
 
 .navbar-toggle {
   border-color: #062147;
-  margin-top: 3vw;
+  margin-top: 44px;
   margin-right: 30px;
 }
 
