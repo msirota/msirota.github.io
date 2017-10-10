@@ -45,7 +45,7 @@ To-Do List:
 10/9:
 - [x] Remove double helix
 - [x] Add new logo
-- [ ] Refactor as single-page site
+- [x] Refactor as single-page site
     - [x] Research
     - [x] People
     - [x] Open Positions
@@ -56,7 +56,8 @@ To-Do List:
 - [x] Reformat logo and toggle button for mobile
 - [x] Reformat navigation
 - [x] Set body in margins
-- [ ] Set all images to max original size
+- [x] Set all images to max original size
+- [ ] Replace all VW with pixel values
 - [ ] Network effect in side margins
 - [ ] Create various options for coloration
 - [ ] Send to Marina

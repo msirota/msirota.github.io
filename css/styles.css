@@ -4,10 +4,6 @@ body {
   /* background:  linear-gradient(to right, #dbd9d9, white, white, white, white, white, #dbd9d9);*/
 }
 
-.container-fluid {
-  padding: 0;
-}
-
 .icon-img {
   border-radius: 50%;
 }
@@ -43,26 +39,26 @@ body {
 .sirota-logo {
   padding: 10px;
   margin-left: 20px;
-  width: 291px;
+  width: 166px;
   display: inline-block;
 }
 
 #sirota-helix {
-  width: 50px;
+  width: 25px;
   float: left;
 }
 
 .labname {
   display: inline-block;
   color: #062147;
-  font-size: 42px;
   padding: 10px;
-  margin-top: 18px;
+  font-size: 21px;
+  margin-top: 5px;
 }
 
 .navbar-toggle {
   border-color: #062147;
-  margin-top: 44px;
+  margin-top: 20px;
   margin-right: 30px;
 }
 
@@ -118,7 +114,7 @@ footer {
 
 footer i {
   color: white;
-  padding-left: 1.5vw;
+  padding-left: 10px;
 }
 
 footer i:hover {
@@ -128,33 +124,28 @@ footer i:hover {
 
 /*Body*/
 
-.body {
-  max-width: 900px;
-  margin: auto;
-}
-
 h1, h2 {
   font-family: 'AganeBold', helvetica, sans-serif;
 }
 
 h2 {
   margin-left: 2vw;
-  font-size: 2vw;
+  font-size: 20px;
   color: #716fb2;
 }
 
 h3 {
   margin-top: 0;
-  font-size: 1.8vw;
+  font-size: 18px;
   color: #716fb2;
 }
 
 h4 {
-  font-size: 1.6vw;
+  font-size: 16px;
 }
 
 p, li {
-  font-size: 1.3vw;
+  font-size: 14px;
 }
 
 .img-fluid {
@@ -227,9 +218,6 @@ a:hover {
 /*Mobile*/
 
 @media (max-width: 767px) {
-  section {
-    padding-top: 140px;
-  }
   h2 {
     font-size: 5vw;
   }
@@ -270,22 +258,16 @@ a:hover {
 }
 
 @media (min-width: 768px) {
-  .sirota-logo {
-    width: 166px;
-  }
-  #sirota-helix {
-    width: 25px;
-  }
-  .labname {
-    font-size: 21px;
-    margin-top: 5px;
-  }
   ul.nav.navbar-nav.navbar-center {
     margin: 0;
     padding-top: 14px;
   }
   ul.nav.navbar-nav.navbar-center a {
-    font-size: 14px;
+    font-size: 12px;
+  }
+  .body {
+    max-width: 900px;
+    margin: auto;
   }
 }
 
@@ -293,9 +275,15 @@ a:hover {
   #ucsf-logo {
     display: inline-block;
   }
+  ul.nav.navbar-nav.navbar-center a {
+    font-size: 14px;
+  }
+  ul.nav.navbar-nav.navbar-center {
+    float: right;
+  }
   .nav-wrapper {
     /* Make max-width same as column width */
-    max-width: 850px;
+    max-width: 880px;
     margin: auto;
   }
   /*Float logos internally*/
@@ -303,4 +291,8 @@ a:hover {
 
 strong {
   font-family: 'AganeBold', helvetica, sans-serif;
+}
+
+.row {
+  margin: 0 !important;
 }
