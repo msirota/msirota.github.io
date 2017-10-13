@@ -81,7 +81,7 @@ To-Do List:
 - [x] Switch Openings and Teaching
 - [x] Even out the padding
 - [x] Favicon of Sirota Lab logo
-- [ ] Legal and format for footer
+- [x] Legal and format for footer
 - [ ] Write documentation for how to:
     - [ ] Add and remove team members
     - [ ] Add and remove publications
