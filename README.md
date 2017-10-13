@@ -74,7 +74,9 @@ To-Do List:
 - [x] Single-page smooth scrolling
 - [x] Auto-close menu on mobile when selection is made
 - [x] Make content background transparent for lighter gray
-- [ ] Add icons to Teaching
+
+10/13
+- [x] Add icons to Openings
 - [ ] Remove flyers from Teaching
 - [ ] Even out the padding
 - [ ] Favicon of Sirota Lab logo
