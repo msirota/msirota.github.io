@@ -10,4 +10,9 @@ $(document).ready(function(){
     });
     return false;
   });
+  // Close Nav Bar
+  $('.nav li a').click(function(event) {
+    if (!$(this).parent().hasClass('dropdown'))
+    $('.navbar-collapse').collapse('hide');
+  });
 });

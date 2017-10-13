@@ -72,7 +72,7 @@ To-Do List:
 - [x] Correct logo size on phone
 - [x] Correct sizing of navigation LIs in mobile dropdown
 - [x] Single-page smooth scrolling
-- [ ] Auto-close menu on mobile when selection is made
+- [x] Auto-close menu on mobile when selection is made
 - [ ] Make content background transparent for lighter gray
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
