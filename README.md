@@ -71,7 +71,9 @@ To-Do List:
 10/12
 - [x] Correct logo size on phone
 - [x] Correct sizing of navigation LIs in mobile dropdown
-- [ ] Single-page smooth scrolling
+- [x] Single-page smooth scrolling
+- [ ] Auto-close menu on mobile when selection is made
+- [ ] Make content background transparent for lighter gray
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
 - [ ] Even out the padding
