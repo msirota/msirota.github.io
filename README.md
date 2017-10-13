@@ -1,6 +1,45 @@
-# msirota.github.io
+# Sirota Lab
 
-To-Do List:
+## How to Add Team Members
+
+1) Add their image to the `images` folder
+2) In the `index.html` file, search for "Add Team Member Below"
+3) Copy and paste the following template to match all the others:
+```html
+<div class="col-xs-12 col-sm-4 sub-section person">
+  <div class="col-xs-4 col-sm-12">
+    <img class="img-fluid icon-img" src="images/[file name of image].jpg">
+  </div>
+  <div class="col-xs-8 col-sm-12 description-section">
+    <h3><a href="[website of teammember]">MEMBER NAME</a></h3>
+    <h4>TITLE</h4>
+    <p>DESCRIPTION</p>
+  </div>
+</div>
+```
+4) Provide the file name for the image in `img src`; be sure to leave `images/` at the beginning since the image is in this directory.
+5) Provide the website for the team member in `a href`. Be sure to use "http://" or "https://" at the beginning of the link.
+6) After entering their name and title, make sure the description is not too long so that it is consistent with the others.
+7) Save, test, commit!
+
+## How to Add Publications
+
+1) In the `index.html` file, search for "Add Publications Below"
+2) Copy and paste the following template to match all the others:
+```html
+<li> Authors,
+  <strong>Sirota M</strong>,
+  Title, publication info,
+  <a href="https://www.ncbi.nlm.nih.gov/pubmed/********">
+    **********
+  </a>
+</li>
+```
+3) Fill in everything as usual, but keep Sirota M `strong`!
+4) Place the PubMed PMID where there are *********, and be sure to test the link
+5) Save, test, commit!
+
+## To-Do List:
 
 6/15:
 - [x] Place images into separate image directory
@@ -82,6 +121,5 @@ To-Do List:
 - [x] Even out the padding
 - [x] Favicon of Sirota Lab logo
 - [x] Legal and format for footer
-- [ ] Write documentation for how to:
-    - [ ] Add and remove team members
-    - [ ] Add and remove publications
+- [x] Write documentation for how to:
+    - [x] Add and remove team members
