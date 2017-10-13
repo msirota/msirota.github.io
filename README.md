@@ -80,7 +80,7 @@ To-Do List:
 - [x] Remove flyers from Teaching
 - [x] Switch Openings and Teaching
 - [x] Even out the padding
-- [ ] Favicon of Sirota Lab logo
+- [x] Favicon of Sirota Lab logo
 - [ ] Legal and format for footer
 - [ ] Write documentation for how to:
     - [ ] Add and remove team members
