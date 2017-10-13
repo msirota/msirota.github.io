@@ -215,6 +215,12 @@ a:hover {
   margin-top: 2.5vw;
 }
 
+/*Research*/
+
+#research .sub-section {
+  padding-top: 40px;
+}
+
 /*People*/
 
 .person {

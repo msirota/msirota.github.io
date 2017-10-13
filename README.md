@@ -77,10 +77,11 @@ To-Do List:
 
 10/13
 - [x] Add icons to Openings
-- [ ] Remove flyers from Teaching
-- [ ] Switch Openings and Teaching
-- [ ] Even out the padding
+- [x] Remove flyers from Teaching
+- [x] Switch Openings and Teaching
+- [x] Even out the padding
 - [ ] Favicon of Sirota Lab logo
+- [ ] Legal and format for footer
 - [ ] Write documentation for how to:
     - [ ] Add and remove team members
     - [ ] Add and remove publications
