@@ -110,11 +110,11 @@ section:nth-child(odd) {
 }
 
 section:nth-child(odd) .inner-section {
-  background-color: #efefef;
+  background-color: rgba(239, 239, 239, 0.5);
 }
 
 section:nth-child(even) {
-  background-color: #c7c7c7
+  background-color: #cacaca
 }
 
 section:nth-child(even) p {

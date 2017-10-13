@@ -73,7 +73,7 @@ To-Do List:
 - [x] Correct sizing of navigation LIs in mobile dropdown
 - [x] Single-page smooth scrolling
 - [x] Auto-close menu on mobile when selection is made
-- [ ] Make content background transparent for lighter gray
+- [x] Make content background transparent for lighter gray
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
 - [ ] Even out the padding
