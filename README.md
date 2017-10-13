@@ -70,7 +70,7 @@ To-Do List:
 
 10/12
 - [x] Correct logo size on phone
-- [ ] Correct sizing of navigation LIs in mobile dropdown
+- [x] Correct sizing of navigation LIs in mobile dropdown
 - [ ] Single-page smooth scrolling
 - [ ] Add icons to Teaching
 - [ ] Remove flyers from Teaching
