@@ -1,0 +1,380 @@
+/*Universal*/
+
+.icon-img {
+  border-radius: 70%;
+}
+
+@font-face{
+  font-family: 'Agane';
+  src: url('Agane45.ttf');
+}
+
+@font-face{
+  font-family: 'AganeBold';
+  src: url('Agane65.ttf');
+}
+
+* {
+  font-family: 'Agane', helvetica, sans-serif;
+}
+
+.container-fluid {
+  padding: 0;
+}
+/*Navigation*/
+
+.navbar {
+  height: 70px;
+}
+
+.navbar-header {
+  background: #efefef;
+}
+
+.navbar-collapse {
+  background: #efefef;
+}
+
+.sirota-logo {
+  padding: 5px;
+  width: 260px;
+  display: inline-block;
+}
+
+#sirota-helix {
+  width: 60px;
+  float: left;
+}
+
+.labname {
+  display: inline-block;
+  color: #062147;
+  font-size: 35px;
+  margin-top: 25px;
+}
+
+.navbar-toggle {
+  border-color: #062147;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.icon-bar {
+  background-color: #062147;
+}
+
+.navbar-collapse {
+  text-align: center;
+}
+
+.nav {
+  background: #efefef;
+}
+
+.nav li a {
+  color: #062147;
+}
+
+.nav li a:hover {
+  color: #6ea400;
+  transition: 0.3s;
+}
+
+#ucsf-logo {
+  width: 90px;
+  margin-top: -12px;
+  display: none;
+}
+
+#ucsf-logo:parent {
+  display: none;
+  padding: 0;
+}
+
+.nav-bar-desktop {
+  background-color: #efefef;
+  box-shadow: 0 2px 0 #052049;
+}
+
+ul.nav.navbar-nav.navbar-center a {
+  padding: 12px 11px;
+  text-transform: uppercase;
+}
+
+section {
+  padding: 100px 0;
+}
+
+section:nth-child(odd) {
+  background-color: none;
+}
+
+section:nth-child(odd) .inner-section {
+  background-color: rgba(239, 239, 239, 0.5);
+}
+
+section:nth-child(even) {
+  background-color: #cacaca
+}
+
+section:nth-child(even) p {
+  color: black
+}
+
+ul.nav.navbar-nav.navbar-center {
+  font-size: 16px;
+}
+
+/*Footer*/
+
+footer {
+  bottom:0;
+  padding: 16px 50px;
+  width:100%;
+  height: auto;
+  color: white;
+  background: #062147;
+  font-size: 16px;
+}
+
+footer a {
+  color: white;
+}
+
+footer i {
+  color: white;
+  padding-left: 10px;
+}
+
+footer i:hover {
+  color: #6ea400;
+  transition: 0.3s;
+}
+
+/*Body*/
+
+h1, h2 {
+  font-family: 'AganeBold', helvetica, sans-serif;
+}
+
+h2 {
+  margin-left: 2vw;
+  font-size: 20px;
+  color: #062147;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 18px;
+  color: #6ea400;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+p, li {
+  font-size: 16px;
+}
+
+.img-fluid {
+  width: 80%;
+}
+
+.img-wide {
+  width: 100%;
+}
+
+a:hover {
+  color: #6ea400;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+/*About*/
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-top: 2vw;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.sub-section {
+  margin-top: 2.5vw;
+  margin-bottom: 2.5vw;
+}
+
+.description-section {
+  margin-top: 2.5vw;
+}
+
+/*Research*/
+
+#research .sub-section {
+  padding-top: 40px;
+}
+
+/*People*/
+
+.person {
+  height: 380px;
+  margin-bottom: 120px;
+}
+
+#group-photo {
+  margin: 5vw 0 5vw 0;
+}
+
+/*Teaching*/
+
+.poster {
+  border: 10px solid #716fb2;
+  box-shadow: 5px 5px 5px #888888;
+  transition: 0.3s;
+}
+
+.poster:hover {
+  border: 10px solid #6ea400;
+  box-shadow: 10px 10px 5px #888888;
+  transition: 0.3s;
+}
+
+/*Openings*/
+.langs {
+  list-style-type: none;
+  padding-top: 10px;
+  font-size: 100px;
+}
+
+/*Mobile*/
+
+@media (max-width: 767px) {
+  .langs {
+    font-size: 60px;
+  }
+  #sirota-helix {
+    width: 40px;
+  }
+  .sirota-logo {
+    margin-left: 0;
+  }
+  h1.labname {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 5vw;
+  }
+  h3 {
+    font-size: 4vw;
+  }
+  h4 {
+    font-size: 3.5vw;
+  }
+  p, li {
+    font-size: 3vw;
+  }
+  .navbar-header {
+    box-shadow: 0 1px 0 #052049;
+  }
+  .navbar>.container-fluid .navbar-brand {
+    margin-left: 0;
+  }
+  .workName {
+    margin-top: -10px;
+  }
+  .nav li a {
+    font-size: 14px;
+  }
+  footer {
+    font-size: 4vw;
+  }
+  footer i {
+    padding-left: 2vw;
+  }
+  .description-section {
+    margin-top: 0;
+  }
+  .person {
+    height: auto;
+    margin-bottom: 5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  ul.nav.navbar-nav.navbar-center {
+    float: right;
+    margin: 0;
+    padding-top: 14px;
+  }
+  ul.nav.navbar-nav.navbar-center a {
+    padding: 26px 11px;
+    font-size: 12px;
+  }
+  .body {
+    width: 100%;
+    background-color: none;
+  }
+  .inner-section {
+    max-width: 900px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 892px) {
+  #ucsf-logo {
+    display: inline-block;
+  }
+  #ucsf-logo:parent {
+    display: inline-block;
+    padding: 15px;
+  }
+  ul.nav.navbar-nav.navbar-center a {
+    font-size: 14px;
+  }
+  .nav-wrapper {
+    /* Make max-width same as column width */
+    max-width: 880px;
+    margin: auto;
+  }
+  /*Float logos internally*/
+}
+
+strong {
+  font-family: 'AganeBold', helvetica, sans-serif;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+/*Network Background*/
+
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-color: #efefef;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}

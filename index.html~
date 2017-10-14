@@ -236,7 +236,7 @@
           <div class="col-xs-9">
             <h3>Integrative Genomics</h3>
             <p>With the advent of genotyping and whole genome sequencing technologies,
-            more and more omics data is becoming available for integrative analysis and provides an opportunity to ask new questions about disease. We are interested in leveraging the genetic data across phenotypes to elucidate the;genetic architecture of disease with a special interest in autoimmune diseases (Plos Genetics 2009). Furthermore we are interested in leveraging and applying next-generation sequencing technologies in order to better understand the role of the immune system in disease (JCI 2012, STM 2014). This work is currently funded by National Institute of Arthritis and Musculoskeletal and Skin Diseases at NIH and Pfizer.</p>
+            more and more omics data is becoming available for integrative analysis and provides an opportunity to ask new questions about disease. We are interested in leveraging the genetic data across phenotypes to elucidate the;genetic architecture of disease with a special interest in autoimmune diseases (Plos Genetics 2009). Furthermore we are interested in leveraging and applying next-generation sequencing technologies in order to better understand the role of the immune system in disease (JCI 2012, STM 2014). This work is currently funded by National Institute of Arthritis and Musculoskeletal and Skin Diseases at NIH and Pfizer</p>
           </div>
         </div>
         <!-- Informatics -->
@@ -256,7 +256,7 @@
           </div>
           <div class="col-xs-9">
             <h3>Computational Drug Discovery</h3>
-            <p>The identification of novel disease indications for approved drugs, or drug repositioning, offers several advantages over traditional drug development. The traditional paradigm of drug discovery is generally regarded as protracted and costly, with studies showing that it takes approximately 15 years and over $1 billion to develop and bring a novel drug to market. The repositioning of drugs already approved for human use mitigates the costs and risks associated with early stages of drug development, and offers shorter routes to approval for therapeutic indications. We are interested in leveraging publicly available data to carry out data-driven computational drug repositioning (STM 2011, JID 2016). This work is currently funded by the National Institue of Aging at NIH.</p>
+            <p>The identification of novel disease indications for approved drugs, or drug repositioning, offers several advantages over traditional drug development. The traditional paradigm of drug discovery is generally regarded as protracted and costly, with studies showing that it takes approximately 15 years and over $1 billion to develop and bring a novel drug to market. The repositioning of drugs already approved for human use mitigates the costs and risks associated with early stages of drug development, and offers shorter routes to approval for therapeutic indications. We are interested in leveraging publicly available data to carry out data-driven computational drug repositioning (STM 2011, JID 2016). This work is currently funded by the National Institue of Aging at NIH</p>
           </div>
         </div>
         <!-- Methods -->
@@ -349,7 +349,7 @@
               <img class="img-fluid icon-img" src="images/idit_final.jpg">
             </div>
             <div class="col-xs-8 col-sm-12 description-section">
-              <h3><a href="http://profiles.ucsf.edu/idit.kosti">Idit Kosti, PhD</a></h3>
+              <h3><a href=""http://profiles.ucsf.edu/idit.kosti"">Idit Kosti, PhD</a></h3>
               <h4>Post Doctoral Scholar</h4>
               <p>Idit has a PhD in computational biology from the Technion, Haifa, Israel, where she studied epigenetics, trancription and splicing co-regulation in the human gene expression pathways. Her current focus is in meta anaylsis and computational integrative methods of human microbiome towards better understanding of preterm birth.</p>
             </div>
