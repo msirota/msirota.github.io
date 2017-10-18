@@ -116,13 +116,13 @@
         <!-- News -->
         <h2>News</h2>
         <ul>
-	        <li>
+	  <li>
             Congrats to Carolyn Wang for getting her project accepted to
             the AMIA 2017 High School Scholar Program in Chicago, November
             2017!!!
           </li>
-	        <li> We are very excited to apply computational drug repurposing to Alzheimer's Disease in collaboration with <a href  ="https://www.lifepulsehealth.com/patients-with-unsolved-diseases-could-be-treated-sooner-than-expected-7091"> Yadong Huang </a> at the Gladstone Institutes as part of a jointly funded R01 from NIA. </li>
-	        <li>
+	  <li> We are very excited to apply computational drug repurposing to Alzheimer's Disease in collaboration with <a href  ="https://www.lifepulsehealth.com/patients-with-unsolved-diseases-could-be-treated-sooner-than-expected-7091"> Yadong Huang </a> at the Gladstone Institutes as part of a jointly funded R01 from NIA. </li>
+	  <li>
             Congrats to Idit on getting her project accepted as a
             podium presentations to the Keystone Conference on Prematurity in October, 2017!
           </li>
@@ -138,7 +138,8 @@
               here!
             </a>
           </li>
-          <li>
+
+ <li>
             Congrats to Silvia on getting her project accepted as a
             podium presentations to ASHG in October, 2017!
           </li>
@@ -235,7 +236,7 @@
           <div class="col-xs-9">
             <h3>Integrative Genomics</h3>
             <p>With the advent of genotyping and whole genome sequencing technologies,
-            more and more omics data is becoming available for integrative analysis and provides an opportunity to ask new questions about disease. We are interested in leveraging the genetic data across phenotypes to elucidate the;genetic architecture of disease with a special interest in autoimmune diseases (Plos Genetics 2009). Furthermore we are interested in leveraging and applying next-generation sequencing technologies in order to better understand the role of the immune system in disease (JCI 2012, STM 2014). This work is currently funded by National Institute of Arthritis and Musculoskeletal and Skin Diseases at NIH and Pfizer.</p>
+            more and more omics data is becoming available for integrative analysis and provides an opportunity to ask new questions about disease. We are interested in leveraging the genetic data across phenotypes to elucidate the;genetic architecture of disease with a special interest in autoimmune diseases (Plos Genetics 2009). Furthermore we are interested in leveraging and applying next-generation sequencing technologies in order to better understand the role of the immune system in disease (JCI 2012, STM 2014). This work is currently funded by National Institute of Arthritis and Musculoskeletal and Skin Diseases at NIH and Pfizer</p>
           </div>
         </div>
         <!-- Informatics -->
@@ -255,7 +256,7 @@
           </div>
           <div class="col-xs-9">
             <h3>Computational Drug Discovery</h3>
-            <p>The identification of novel disease indications for approved drugs, or drug repositioning, offers several advantages over traditional drug development. The traditional paradigm of drug discovery is generally regarded as protracted and costly, with studies showing that it takes approximately 15 years and over $1 billion to develop and bring a novel drug to market. The repositioning of drugs already approved for human use mitigates the costs and risks associated with early stages of drug development, and offers shorter routes to approval for therapeutic indications. We are interested in leveraging publicly available data to carry out data-driven computational drug repositioning (STM 2011, JID 2016). This work is currently funded by the National Institue of Aging at NIH.</p>
+            <p>The identification of novel disease indications for approved drugs, or drug repositioning, offers several advantages over traditional drug development. The traditional paradigm of drug discovery is generally regarded as protracted and costly, with studies showing that it takes approximately 15 years and over $1 billion to develop and bring a novel drug to market. The repositioning of drugs already approved for human use mitigates the costs and risks associated with early stages of drug development, and offers shorter routes to approval for therapeutic indications. We are interested in leveraging publicly available data to carry out data-driven computational drug repositioning (STM 2011, JID 2016). This work is currently funded by the National Institue of Aging at NIH</p>
           </div>
         </div>
         <!-- Methods -->
@@ -348,7 +349,7 @@
               <img class="img-fluid icon-img" src="images/idit_final.jpg">
             </div>
             <div class="col-xs-8 col-sm-12 description-section">
-              <h3><a href="http://profiles.ucsf.edu/idit.kosti">Idit Kosti, PhD</a></h3>
+              <h3><a href=""http://profiles.ucsf.edu/idit.kosti"">Idit Kosti, PhD</a></h3>
               <h4>Post Doctoral Scholar</h4>
               <p>Idit has a PhD in computational biology from the Technion, Haifa, Israel, where she studied epigenetics, trancription and splicing co-regulation in the human gene expression pathways. Her current focus is in meta anaylsis and computational integrative methods of human microbiome towards better understanding of preterm birth.</p>
             </div>
@@ -364,7 +365,7 @@
               <p>Hongtai's main research interest lies in the interface between statistical analyses and health/environmental decision making. He is currently utilizing health and environmental data to assess and understand potential associations between adverse pregnancy outcomes and environmental exposures as part of PTBi.</p>
             </div>
           </div>
-          <!-- Kat -->
+<!-- Kat -->
           <div class="col-xs-12 col-sm-4 sub-section person">
             <div class="col-xs-4 col-sm-12">
               <img class="img-fluid icon-img" src="images/kat_final.jpg">
@@ -375,7 +376,7 @@
               <p>Kat is a BMS gradauate student at UCSF who is interested in developing and applying computational methods to understand cancer heterogeneity and experimental models.</p>
             </div>
           </div>
-          <!-- Brian Le -->
+<!-- Brian Le -->
           <div class="col-xs-12 col-sm-4 sub-section person">
             <div class="col-xs-4 col-sm-12">
               <img class="img-fluid icon-img" src="images/brian_final.jpg">
@@ -386,7 +387,7 @@
               <p>Brian graduated Cum Laude from UCLA as a double major in physics and applied mathematics and went on to obtain his doctorate in physics from the University of Illinois. He joined the Sirota Lab with the goal of learning more about data science applications to biology and medicine. </p>
             </div>
           </div>
-          <!-- Ishan -->
+<!-- Ishan -->
           <div class="col-xs-12 col-sm-4 sub-section person">
             <div class="col-xs-4 col-sm-12">
               <img class="img-fluid icon-img" src="images/ishan_final.jpg">
@@ -399,7 +400,7 @@
           </div>
 
           <!-- Add Team Member Below -->
-
+	  
           <!-- You! -->
           <div class="col-xs-12 col-sm-4 sub-section person">
             <div class="col-xs-4 col-sm-12">
@@ -418,9 +419,9 @@
         <!-- Alumni -->
         <h2>Alumni</h2>
         <ul>
-          <li>Akshay Ravoor, High School Student, The Harkar School</li>
-          <li>Carolyn Wang, High School Student, Gunn High School</li>
-          <li>Labanya Mukhopadhyay, High School Student, Evergreen Valley High School</li>
+	  <li>Akshay Ravoor, High School Student, The Harkar School</li>
+	  <li>Carolyn Wang, High School Student, Gunn High School</li>
+	  <li>Labanya Mukhopadhyay, High School Student, Evergreen Valley High School</li>
           <li>Anooshree Sengupta, High School Student, The Harkar School</li>
           <li>Grace Cho, BS, Stanford Medical Student</li>
           <li>Cindy Lin, Stanford Undergradaute Student</li>
@@ -458,7 +459,7 @@
           <div class="row">
             <div class="col-sm-12">
                <h2>Teaching</h2>
-               <h2><a href="https://lecture.ucsf.edu/ets/Catalog/Full/60449da854fa4154936f6f875a2df6ad21">Spring 2017 | Computational Immunology Mini Course</a>
+                <h2><a href="https://lecture.ucsf.edu/ets/Catalog/Full/60449da854fa4154936f6f875a2df6ad21">Spring 2017 | Computational Immunology Mini Course</a>
               </h2>
               <p>
                 This course provides an overview of computational methods used in the analysis of immunological data, including transcriptomics, next generation sequencing, cytometry and CyTOF. We will provide a theoretical framework but focus on real applications.
@@ -467,7 +468,13 @@
                 The first hour of each session was a lecture format that was livestreamed and archived <a href="https://lecture.ucsf.edu/ets/Catalog/Full/60449da854fa4154936f6f875a2df6ad21">here</a>, followed by an intimate disucssion session with the registered students. This course was co-directed with Matt Spitzer.
               </p>
             </div>
+            <!-- <div class="col-sm-6">
+              <a href="https://lecture.ucsf.edu/ets/Catalog/Full/60449da854fa4154936f6f875a2df6ad21">
+                <img class="img-wide poster" src="images/comp_imm_spring_2017.jpg">
+              </a>
+            </div> -->
           </div>
+       
           <div class="row">
             <div class="col-sm-12">
               <h2>
@@ -477,6 +484,11 @@
                 In collaboration with Stanford University, would like to invite you to join us for a Computational Immunology Seminar Series this summer. The seminars will be hosted at Stanford and interactively streamed at UCSF in Mission Hall. Click <a href="https://mailman.stanford.edu/mailman/listinfo/immunol310-sum1415-guests">here</a> to subscribe to our updates about the lectures. We have an array of exciting speakers lined up and hope you will join us!
               </p>
             </div>
+            <!-- <div class="col-sm-6">
+              <a href="https://mailman.stanford.edu/mailman/listinfo/immunol310-sum1415-guests">
+                <img class="img-wide poster" src="images/comp_imm_summer_2016.jpg">
+              </a>
+            </div> -->
           </div>
         </div>
       </section>
@@ -562,81 +574,109 @@
       </section>
       <section id="publications">
         <div class="inner-section">
-            <!-- Heading -->
-            <h2>Publications</h2>
-            <!-- Add Publications Below -->
-            36. Hadley D, Pan J, El-Sayed O, Aljabban J, Aljabban I, Azad TD, Hadied MO, Raza S, Rayikanti BA, Chen B, Paik H, Aran D, Spatz J, Himmelstein D, Panahiazar M, Bhattacharya S, <strong>Sirota M</strong>, Musen MA, Butte AJ. Precision annotation of digital samples in NCBI's gene expression omnibus. Sci Data. 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28925997">28925997</a>.
-            <br>
-            <br> 35. Gianfrancesco MA, Schmajuk G, Haserodt S, Trupin L, Izadi Z, Jafri K, Shiboski S, <strong>Sirota M</strong>, Adams Dudley R, Yazdany J. Hydroxychloroquine dosing in immune-mediated diseases: implications for patient safety. Rheumatol Int. 2017.PubMed P PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/28748425">28748425</a>.
-            <br>
-            <br> 34. Apeltsin L, Wang S, von Büdingen HC, <strong>Sirota M</strong>. A Haystack Heuristic for Autoimmune Disease Biomarker Discovery Using Next-Gen Immune Repertoire Sequencing Data. Sci Rep. 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28706301">28706301</a>.
-            <br>
-            <br> 33. Chen B, Ma L, Paik H, <strong>Sirota M</strong>, Wei W, Chua MS, So S, Butte AJ. Reversal of cancer gene expression correlates with drug efficacy and reveals therapeutic targets. Nat Commun. 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28699633">28699633</a>.
-            <br>
-            <br> 32. Schmajuk G, Tonner C, Trupin L, Li J, Sarkar U, Ludwig D, Shiboski S, <strong>Sirota M</strong>, Dudley RA, Murray S, Yazdany J. Using health-system-wide data to understand hepatitis B virus prophylaxis and reactivation outcomes in patients receiving rituximab. Medicine (Baltimore), 2017.PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28353614"> 28353614</a>.
-            <br>
-            <br> 31. <strong>Sirota M</strong>, Sarwal M. Transplantomics: Towards Precision Medicine in Transplantation Research. Transplantation, 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28121910">28121910</a>.
-            <br>
-            <br> 30. Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie T, Mathur M, Desai M, Farrington C, Radin AA, <strong>Sirota M</strong>, Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW Jr, Kurian AW, Shah NH. Synergistic drug combinations from electronic health records and gene expression. J Am Med Inform Assoc, 2016. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/27940607">27940607</a>.
-            <br>
-            <br> 29. Yeung YA, Foletti D, Deng X, Abdiche Y, Strop P, Glanville J, Pitts S, Lindquist K, Sundar PD, <strong>Sirota M</strong>, Hasa-Moreno A, Pham A, Melton Witt J, Ni I, Pons J, Shelton D, Rajpal A, Chaparro-Riggers J. Germline-encoded neutralization of a Staphylococcus aureus virulence factor by the human antibody repertoire. Nat Commun, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27857134">27857134</a>.
-            <br>
-            <br> 28. Paik H, Chen B, <strong>Sirota M</strong>, Hadley D, Butte AJ. Integrating Clinical Phenotype and Gene Expression Data to Prioritize Novel Drug Uses. CPT Pharmacometrics Syst Pharmacol, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27860440">27860440</a>.
-            <br>
-            <br> 27. Wang A, Padula A, <strong>Sirota M</strong>, Woodruff TJ. Environmental influences on reproductive health: the importance of chemical exposures. Fertil Steril, 2016. Review. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27513554">27513554</a>.
-            <br>
-            <br> 26. Kosti I, Jain N, Aran D, Butte AJ, <strong>Sirota M. </strong> Cross-tissue Analysis of Gene and Protein Expression in Normal and Cancer Tissues. Sci Rep, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27142790">27142790</a>.
-            <br>
-            <br> 25. Bagley SC*, <strong>Sirota M*</strong>, Chen R, Butte AJ, Altman RB. Constraints on Biological Mechanism from Disease Comorbidity Using Electronic Medical Records and Database of Genetic Variants. PLoS Comput Biol, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27115429">27115429.</a>
-            <br>
-            <br> 24. Cho HG, Fiorentino D, Lewis M, <strong>Sirota M</strong>*, Sarin KY*. Identification of alpha-adrenergic agonists as potential therapeutic agents for dermatomyositis through drug-repurposing using public expression datasets. J Invest Dermatol, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26975725">26975725.</a>
-            <br>
-            <br> 23. Aran D, <strong>Sirota M</strong>, Butte AJ. Systematic pan-cancer analysis of tumour purity. Nat Commun. 2015 Dec 4;6:8971. doi: 10.1038/ncomms9971. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26634437">26634437</a>; PubMed Central PMCID: PMC4671203.
-            <br>
-            <br> 22. Chen B, Greenside P, Paik H, <strong>Sirota M</strong>, Hadley D, Butte AJ. Relating Chemical Structure to Cellular Response: An Integrative Analysis of Gene Expression, Bioactivity, and Structural Data Across 11,000 Compounds. CPT Pharmacometrics Syst Pharmacol, 2015. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26535158">26535158</a>; PubMed Central PMCID: PMC4625862.
-            <br>
-            <br> 21. Chen B, <strong>Sirota M</strong>, Fan-Minogue H, Hadley D, Butte AJ. Relating hepatocellular carcinoma tumor samples and cell lines using gene expression data in translational research. BMC Med Genomics, 2015. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26043652">26043652</a>; PubMed Central PMCID: PMC4460709.
-            <br>
-            <br> 20. Rehm HL, Berg JS, Brooks LD, Bustamante CD, Evans JP, Landrum MJ, Ledbetter DH, Maglott DR, Martin CL, Nussbaum RL, Plon SE, Ramos EM, Sherry ST, Watson MS; ClinGen. ClinGen--the Clinical Genome Resource. N Engl J Med, 2015. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26014595">26014595</a>; PubMed Central PMCID: PMC4474187.
-            <br>
-            <br> 19. <strong>Sirota M</strong>, Willemsen G, Sundar P, Pitts SJ, Potluri S, Prifti E, Kennedy S, Ehrlich SD, Neuteboom J, Kluft C, Malone KE, Cox DR, de Geus EJ, Boomsma DI. Effect of genome and environment on metabolic and inflammatory profiles. PLoS One, 2015.PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25853885">25853885</a>; PubMed Central PMCID: PMC4390246.
-            <br>
-            <br> 18. Fan-Minogue H, Chen B, Sikora-Wohlfeld W, <strong>Sirota M</strong>, Butte AJ. A systematic assessment of linking gene expression with genetic variants for prioritizing candidate targets. Pac Symp Biocomput, 2015. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25592598">25592598</a>; PubMed Central PMCID: PMC4299914.
-            <br>
-            <br> 17. Wu M, <strong>Sirota M</strong>, Butte AJ, Chen B. Characteristics of drug combination therapy in oncology by analyzing clinical trial data on ClinicalTrials.gov. Pac Symp Biocomput, 2015.PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25592569">25592569</a>; PubMed Central PMCID: PMC4361221.
-            <br>
-            <br> 16. Palanichamy A*, Apeltsin L*, Kuo TC*, <strong>Sirota M*</strong>, Wang S, Pitts SJ, Sundar PD, Telman D, Zhao LZ, Derstine M, Abounasr A, Hauser SL, von B&uuml;dingen HC. Immunoglobulin class-switched B cells form an active immune axis between CNS and periphery in multiple sclerosis. Sci Transl Med, 2014. ubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25100740">25100740</a>; PubMed Central PMCID: PMC4176763.
-            <br>
-            <br> 15. von Büdingen HC, Kuo TC, <strong>Sirota M</strong>, van Belle CJ, Apeltsin L, Glanville J, Cree BA, Gourraud PA, Schwartzburg A, Huerta G, Telman D, Sundar PD, Casey T, Cox DR, Hauser SL. B cell exchange across the blood-brain barrier in multiple sclerosis. J Clin Invest, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/23160197">23160197</a>; PubMed Central PMCID: PMC3533544.
-            <br>
-            <br> 14. Kodama K, Horikoshi M, Toda K, Yamada S, Hara K, Irie J, <strong>Sirota M</strong>, Morgan AA, Chen R, Ohtsu H, Maeda S, Kadowaki T, Butte AJ. Expression-based genome-wide association study links the receptor CD44 in adipose tissue with type 2 diabetes. Proc Natl Acad Sci U S A, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/22499789">22499789</a>; PubMed Central PMCID: PMC3344989.
-            <br>
-            <br> 13. Khatri P, <strong>Sirota M</strong>, Butte AJ. Ten years of pathway analysis: current approaches and outstanding challenges. PLoS Comput Biol, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/22383865">22383865</a>; PubMed Central PMCID: PMC3285573.
-            <br>
-            <br> 12. Liu LY, Schaub MA, <strong>Sirota M</strong>, Butte AJ. Sex differences in disease risk from reported genome-wide association study findings. Hum Genet, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21858542">21858542</a>; PubMed Central PMCID: PMC3260375.
-            <br>
-            <br> 11. <strong>Sirota M*</strong>, Dudley JT*, Kim J, Chiang AP, Morgan AA, Sweet-Cordero A, Sage J, Butte AJ. Discovery and preclinical validation of drug indications using compendia of public gene expression data. Sci Transl Med, 2011. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21849665">21849665</a>; PubMed Central PMCID: PMC3502016.
-            <br>
-            <br> 10. Dudley JT*, <strong>Sirota M*</strong>, Shenoy M, Pai RK, Roedder S, Chiang AP, Morgan AA, Sarwal MM, Pasricha PJ, Butte AJ. Computational repositioning of the anticonvulsant topiramate for inflammatory bowel disease. Sci Transl Med, 2011. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21849664">21849664</a>; PubMed Central PMCID: PMC3479650.
-            <br>
-            <br> 9. <strong>Sirota M</strong>, Butte AJ. The role of bioinformatics in studying rheumatic and autoimmune disorders. Nat Rev Rheumatol, 2011. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21691330">21691330</a>.
-            <br>
-            <br> 8. Liu LY, Schaub MA, <strong>Sirota M</strong>, Butte AJ. Transmission distortion in Crohn's disease risk gene ATG16L1 leads to sex difference in disease association. Inflamm Bowel Dis, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21618365">21618365</a>; PubMed Central PMCID: PMC3165065.
-            <br>
-            <br> 7. Davydov EV, Goode DL, <strong>Sirota M</strong>, Cooper GM, Sidow A, Batzoglou S. Identifying a high fraction of the human genome to be under selective constraint using GERP++. PLoS Comput Biol, 2010. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21152010">21152010</a>; PubMed Central PMCID: PMC2996323.
-            <br>
-            <br> 6. Chen R, Davydov EV, <strong>Sirota M</strong>, Butte AJ. Non-synonymous and synonymous coding SNPs show similar likelihood and effect size of human disease association. PLoS One, 2010. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21042586">21042586</a>; PubMed Central PMCID: PMC2962641.
-            <br>
-            <br> 5. Dudley JT, Schadt E, <strong>Sirota M</strong>, Butte AJ, Ashley E. Drug discovery in a multidimensional world: systems, patterns, and networks. J Cardiovasc Transl Res, 2010. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/20677029">20677029</a>.
-            <br>
-            <br> 4. <strong>Sirota M</strong>, Schaub MA, Batzoglou S, Robinson WH, Butte AJ. Autoimmune disease classification by inverse association with SNP alleles. PLoS Genet, 2009. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/20041220">20041220</a>; PubMed Central PMCID: PMC2791168.
-            <br>
-            <br> 3. Schaub MA, Kaplow IM, <strong>Sirota M</strong>, Do CB, Butte AJ, Batzoglou S. A Classifier-based approach to identify genetic similarities between diseases. Bioinformatics, 2009. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/19477990">19477990</a>; PubMed Central PMCID: PMC2687980.
-            <br>
-            <br> 2. Gross SS, Do CB, <strong>Sirota M</strong>, Batzoglou S. CONTRAST: a discriminative, phylogeny-free approach to multiple informant de novo gene prediction. Genome Biol, 2007. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/18096039">18096039</a>; PubMed Central PMCID: PMC2246271.
-            <br>
-            <br> 1. Drosophila 12 Genomes Consortium. Evolution of genes and genomes on the Drosophila phylogeny. Nature, 2007. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/17994087">17994087</a>.
-        </div>
+        <!-- Heading -->
+        <h2>Publications</h2>
+        <ul>
+          <!-- Add Publications Below -->
+          
+          36. Hadley D, Pan J, El-Sayed O, Aljabban J, Aljabban I, Azad TD, Hadied MO, Raza 
+          S, Rayikanti BA, Chen B, Paik H, Aran D, Spatz J, Himmelstein D, Panahiazar M,
+          Bhattacharya S, <strong>Sirota M</strong>, Musen MA, Butte AJ. Precision annotation of            digital samples in NCBI's gene expression omnibus. Sci Data. 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28925997">28925997</a>.
+      <br><br>
+          35. Gianfrancesco MA, Schmajuk G, Haserodt S, Trupin L, Izadi Z, Jafri K, Shiboski
+          S, <strong>Sirota M</strong>, Adams Dudley R, Yazdany J. Hydroxychloroquine dosing in
+          immune-mediated diseases: implications for patient safety. Rheumatol Int. 2017.PubMed P           PMID:<a href="https://www.ncbi.nlm.nih.gov/pubmed/28748425">28748425</a>.
+      <br><br>
+          34. Apeltsin L, Wang S, von Büdingen HC, <strong>Sirota M</strong>. A Haystack Heuristic           for Autoimmune Disease Biomarker Discovery Using Next-Gen Immune Repertoire
+          Sequencing Data. Sci Rep. 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28706301">28706301</a>.
+        <br><br>
+          33. Chen B, Ma L, Paik H, <strong>Sirota M</strong>, Wei W, Chua MS, So S, Butte AJ.              Reversal of cancer gene expression correlates with drug efficacy and reveals therapeutic
+          targets. Nat Commun. 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28699633">28699633</a>.
+        <br><br>
+          32.  Schmajuk G, Tonner C, Trupin L, Li J, Sarkar U, Ludwig D, Shiboski
+            S, <strong>Sirota M</strong>, Dudley RA, Murray S, Yazdany J. Using
+            health-system-wide data to understand hepatitis B virus prophylaxis
+            and reactivation outcomes in patients receiving rituximab. Medicine
+            (Baltimore), 2017.PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28353614"> 28353614</a>.
+        <br><br>
+          31.  <strong>Sirota M</strong>, Sarwal M. Transplantomics: Towards Precision Medicine in
+            Transplantation Research. Transplantation, 2017. PubMed PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28121910">28121910</a>.
+         <br><br>
+          30.  Low YS, Daugherty AC, Schroeder EA, Chen W, Seto T, Weber S, Lim M, Hastie
+            T, Mathur M, Desai M, Farrington C, Radin AA, <strong>Sirota M</strong>,
+            Kenkare P, Thompson CA, Yu PP, Gomez SL, Sledge GW Jr, Kurian AW, Shah NH.
+            Synergistic drug combinations from electronic health records and gene expression.
+            J Am Med Inform Assoc, 2016. PubMed PMID: <a href= "https://www.ncbi.nlm.nih.gov/pubmed/27940607">27940607</a>.
+        <br><br>
+         29.   Yeung YA, Foletti D, Deng X, Abdiche Y, Strop P, Glanville J, Pitts S, Lindquist
+            K, Sundar PD, <strong>Sirota M</strong>, Hasa-Moreno A, Pham A, Melton Witt
+            J, Ni I, Pons J, Shelton D, Rajpal A, Chaparro-Riggers J. Germline-encoded
+            neutralization of a Staphylococcus aureus virulence factor by the human
+            antibody repertoire. Nat Commun, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27857134">27857134</a>.
+       <br><br>
+         28.   Paik H, Chen B, <strong>Sirota M</strong>, Hadley D, Butte AJ. Integrating
+            Clinical Phenotype and Gene Expression Data to Prioritize Novel Drug Uses.
+            CPT Pharmacometrics Syst Pharmacol, 2016.
+            PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27860440">27860440</a>.
+       <br><br>
+          27.  Wang A, Padula A, <strong>Sirota M</strong>, Woodruff TJ. Environmental
+            influences on reproductive health: the importance of chemical exposures.
+            Fertil Steril, 2016. Review. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27513554">27513554</a>.
+  <br><br>
+           26. Kosti I, Jain N, Aran D, Butte AJ, <strong>Sirota M. </strong> Cross-tissue Analysis of Gene and Protein Expression in Normal and Cancer Tissues. Sci Rep, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27142790">27142790</a>.
+          <br><br>
+          25.  Bagley SC*, <strong>Sirota M*</strong>, Chen R, Butte AJ, Altman RB. Constraints on Biological Mechanism from Disease Comorbidity Using Electronic Medical Records and Database  of Genetic Variants. PLoS Comput Biol, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/27115429">27115429.</a>
+          <br><br>
+          24.  Cho HG, Fiorentino D, Lewis M, <strong>Sirota M</strong>*, Sarin KY*. Identification of alpha-adrenergic agonists as potential therapeutic agents for dermatomyositis through drug-repurposing using public expression datasets. J Invest Dermatol, 2016. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/26975725">26975725.</a>
+         <br><br>
+          23.  Aran D, <strong>Sirota M</strong>, Butte AJ. Systematic pan-cancer analysis of tumour purity. Nat Commun. 2015 Dec 4;6:8971. doi: 10.1038/ncomms9971. PubMed PMID:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26634437">26634437</a>; PubMed Central PMCID: PMC4671203.
+<br><br>
+           22. Chen B, Greenside P, Paik H, <strong>Sirota M</strong>, Hadley D, Butte AJ. Relating Chemical Structure to Cellular Response: An Integrative Analysis of Gene Expression, Bioactivity, and Structural Data Across 11,000 Compounds. CPT Pharmacometrics Syst Pharmacol, 2015. PubMed PMID:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26535158">26535158</a>; PubMed Central PMCID: PMC4625862.
+         <br><br>
+          21.  Chen B, <strong>Sirota M</strong>, Fan-Minogue H, Hadley D, Butte AJ. Relating hepatocellular carcinoma tumor samples and cell lines using gene expression data in translational research. BMC Med Genomics, 2015. PubMed PMID:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26043652">26043652</a>; PubMed Central PMCID: PMC4460709.
+       <br><br>
+          20.  Rehm HL, Berg JS, Brooks LD, Bustamante CD, Evans JP, Landrum MJ, Ledbetter DH, Maglott DR, Martin CL, Nussbaum RL, Plon SE, Ramos EM, Sherry ST, Watson MS;  ClinGen. ClinGen--the Clinical Genome Resource. N Engl J Med, 2015. PubMed PMID:  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26014595">26014595</a>; PubMed Central PMCID: PMC4474187.
+        <br><br>
+           19. <strong>Sirota M</strong>, Willemsen G, Sundar P, Pitts SJ, Potluri S, Prifti E, Kennedy S, Ehrlich SD, Neuteboom J, Kluft C, Malone KE, Cox DR, de Geus EJ, Boomsma DI. Effect of genome and environment on metabolic and inflammatory profiles. PLoS One, 2015.PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25853885">25853885</a>; PubMed Central PMCID: PMC4390246.
+         <br><br>
+           18. Fan-Minogue H, Chen B, Sikora-Wohlfeld W, <strong>Sirota M</strong>, Butte AJ. A systematic assessment of linking gene expression with genetic variants for prioritizing candidate targets. Pac Symp Biocomput, 2015. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25592598">25592598</a>; PubMed Central PMCID: PMC4299914.
+          <br><br>
+          17.  Wu M, <strong>Sirota M</strong>, Butte AJ, Chen B. Characteristics of drug combination therapy  in oncology by analyzing clinical trial data on ClinicalTrials.gov. Pac Symp Biocomput, 2015.PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25592569">25592569</a>; PubMed Central PMCID: PMC4361221.
+       <br><br>
+          16.  Palanichamy A*, Apeltsin L*, Kuo TC*, <strong>Sirota M*</strong>, Wang S, Pitts SJ, Sundar PD, Telman D, Zhao LZ, Derstine M, Abounasr A, Hauser SL, von B&uuml;dingen HC. Immunoglobulin class-switched B cells form an active immune axis between CNS and  periphery in multiple sclerosis. Sci Transl Med, 2014. ubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/25100740">25100740</a>; PubMed Central PMCID: PMC4176763.
+       <br><br>
+         15.   von Büdingen HC, Kuo TC, <strong>Sirota M</strong>, van Belle CJ, Apeltsin L, Glanville J, Cree BA, Gourraud PA, Schwartzburg A, Huerta G, Telman D, Sundar PD, Casey T, Cox DR,  Hauser SL. B cell exchange across the blood-brain barrier in multiple sclerosis.  J Clin Invest, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/23160197">23160197</a>; PubMed Central PMCID: PMC3533544.
+        <br><br>
+         14.   Kodama K, Horikoshi M, Toda K, Yamada S, Hara K, Irie J, <strong>Sirota M</strong>, Morgan AA, Chen R, Ohtsu H, Maeda S, Kadowaki T, Butte AJ. Expression-based genome-wide association study links the receptor CD44 in adipose tissue with type 2 diabetes. Proc Natl Acad Sci U S A, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/22499789">22499789</a>; PubMed Central PMCID: PMC3344989.
+        <br><br>
+          13.  Khatri P, <strong>Sirota M</strong>, Butte AJ. Ten years of pathway analysis: current approaches and outstanding challenges. PLoS Comput Biol, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/22383865">22383865</a>; PubMed Central PMCID: PMC3285573.
+       <br><br>
+           12. Liu LY, Schaub MA, <strong>Sirota M</strong>, Butte AJ. Sex differences in disease risk from reported genome-wide association study findings. Hum Genet, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21858542">21858542</a>; PubMed Central PMCID: PMC3260375.
+      <br><br>
+           11. <strong>Sirota M*</strong>, Dudley JT*, Kim J, Chiang AP, Morgan AA, Sweet-Cordero A, Sage J, Butte AJ. Discovery and preclinical validation of drug indications using compendia of public gene expression data. Sci Transl Med, 2011. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21849665">21849665</a>; PubMed Central PMCID: PMC3502016.
+       <br><br>
+          10.  Dudley JT*, <strong>Sirota M*</strong>, Shenoy M, Pai RK, Roedder S, Chiang AP, Morgan AA, Sarwal MM, Pasricha PJ, Butte AJ. Computational repositioning of the anticonvulsant topiramate for inflammatory bowel disease. Sci Transl Med, 2011. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21849664">21849664</a>; PubMed Central PMCID: PMC3479650.
+       <br><br>
+           9. <strong>Sirota M</strong>, Butte AJ. The role of bioinformatics in studying rheumatic and autoimmune disorders. Nat Rev Rheumatol, 2011. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21691330">21691330</a>.
+         <br><br>
+           8. Liu LY, Schaub MA, <strong>Sirota M</strong>, Butte AJ. Transmission distortion in Crohn's disease risk gene ATG16L1 leads to sex difference in disease association. Inflamm Bowel Dis, 2012. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21618365">21618365</a>; PubMed Central PMCID: PMC3165065.
+        <br><br>
+            7. Davydov EV, Goode DL, <strong>Sirota M</strong>, Cooper GM, Sidow A, Batzoglou S. Identifying  a high fraction of the human genome to be under selective constraint using GERP++. PLoS Comput Biol, 2010. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21152010">21152010</a>; PubMed Central PMCID: PMC2996323.
+       <br><br>
+            6. Chen R, Davydov EV, <strong>Sirota M</strong>, Butte AJ. Non-synonymous and synonymous coding  SNPs show similar likelihood and effect size of human disease association. PLoS One, 2010. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/21042586">21042586</a>; PubMed Central PMCID: PMC2962641.
+        <br><br>
+            5. Dudley JT, Schadt E, <strong>Sirota M</strong>, Butte AJ, Ashley E. Drug discovery in a multidimensional world: systems, patterns, and networks. J Cardiovasc Transl Res, 2010. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/20677029">20677029</a>.
+       <br><br>
+            4. <strong>Sirota M</strong>, Schaub MA, Batzoglou S, Robinson WH, Butte AJ. Autoimmune disease classification by inverse association with SNP alleles. PLoS Genet, 2009. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/20041220">20041220</a>; PubMed Central PMCID: PMC2791168.
+       <br><br>
+            3. Schaub MA, Kaplow IM, <strong>Sirota M</strong>, Do CB, Butte AJ, Batzoglou S. A Classifier-based approach to identify genetic similarities between diseases. Bioinformatics, 2009. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/19477990">19477990</a>; PubMed Central PMCID: PMC2687980.
+       <br><br>
+            2. Gross SS, Do CB, <strong>Sirota M</strong>, Batzoglou S. CONTRAST: a discriminative, phylogeny-free approach to multiple informant de novo gene prediction. Genome Biol, 2007. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/18096039">18096039</a>; PubMed Central PMCID: PMC2246271.
+        <br><br>
+            1. Drosophila 12 Genomes Consortium. Evolution of genes and genomes on the Drosophila phylogeny. Nature, 2007. PubMed PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/17994087">17994087</a>.
+
+        </ul>
+      </div>
       </section>
     </div>
   </div><!-- End Body -->
