@@ -378,3 +378,9 @@ canvas {
   background-size: cover;
   background-position: 50% 50%;
 }
+
+/*Active menu item*/
+.nav li .active-item {
+  color: #6ea400;
+  transition: 0.3s;
+}
