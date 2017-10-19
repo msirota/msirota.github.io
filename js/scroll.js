@@ -2,6 +2,10 @@ $(document).ready(function(){
   // Smooth Scrolling
   var $root = $('html, body');
   $('.nav li a').click(function() {
+    // Active Menu item
+    $(".nav li a").removeClass("active-item");
+    $(this).addClass("active-item");
+    // Scroll Animation
     var href = $.attr(this, 'href');
     $root.animate({
         scrollTop: $(href).offset().top

@@ -124,3 +124,4 @@
 - [x] Write documentation for how to:
     - [x] Add and remove team members
     - [x] Add and remove publications
+- [x] Active menu item on click
