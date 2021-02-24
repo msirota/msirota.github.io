@@ -97,7 +97,7 @@
 }
 
 ul.nav.navbar-nav.navbar-center a {
-  padding: 12px 11px;
+  padding: 12px 10px; /* was 12px 11px */
   text-transform: uppercase;
 }
 
@@ -122,7 +122,7 @@ section:nth-child(even) p {
 }
 
 ul.nav.navbar-nav.navbar-center {
-  font-size: 16px;
+  font-size: 15px; /* was 16px */
 }
 
 /*Footer*/
