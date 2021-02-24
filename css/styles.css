@@ -81,7 +81,7 @@
 }
 
 #ucsf-logo {
-  width: 90px;
+  width: 80px; /* was 90 */
   margin-top: -12px;
   display: none;
 }
@@ -318,7 +318,7 @@ a:hover {
     padding-top: 14px;
   }
   ul.nav.navbar-nav.navbar-center a {
-    padding: 26px 11px;
+    padding: 26px 10px; /* was 26px 11px; */
     font-size: 12px;
   }
   .body {
