@@ -387,6 +387,7 @@ canvas {
 
 /*for labphotos*/
 .slideshow-container {
+    text-align: center;
     position: relative;
     width: 80%;
     max-width: 80%;
@@ -395,6 +396,7 @@ canvas {
 }
 
 .slides {
+    text-align: center;
     width: 80%;
     height: auto;
     display: block;
