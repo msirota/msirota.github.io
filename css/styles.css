@@ -388,8 +388,8 @@ canvas {
 /*for labphotos*/
 .slideshow-container {
     position: relative;
-    width: 100%;
-    max-width: 100%;
+    width: 80%;
+    max-width: 80%;
     margin: auto;
     overflow: hidden;
 }
