@@ -1320,7 +1320,29 @@ The long-term research goal of the <strong>Sirota Lab</strong> is to develop int
 
       </div>
       </section>
-	 
+      <section id="labphotos">	
+	          <div class="slideshow-container" id="slideshow">
+        <img id="slideImage" class="slides" src="" alt="Slideshow Image">
+    </div>
+    
+    <script>
+        let images = [
+            	"images/lab_party_silvia_cropped.jpg",
+            	"images/lab_escape2.jpg",
+            	"images/lab_escape2.jpg",
+	    	"images/lab_photo_collage.jpg"
+        ];
+        let index = 0;
+
+        function showSlide() {
+            document.getElementById("slideImage").src = images[index];
+            index = (index + 1) % images.length;
+        }
+
+        setInterval(showSlide, 3000); // Change image every 3 seconds
+        showSlide(); // Initial display
+    </script>
+      </section>
 	 	
 
       <section id="teaching">
