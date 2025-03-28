@@ -389,7 +389,7 @@ canvas {
 .slideshow-container {
     text-align: center;
     position: relative;
-    width: 100%;
+    width: 80%;
     max-width: 100%;
     margin: 0 auto; /* Centers the slideshow */
     overflow: hidden;
