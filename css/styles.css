@@ -402,3 +402,23 @@ canvas {
     display: block;
     max-width: 100vw; /* Ensures it does not exceed the viewport width */
 }
+
+/*For videos*/
+.video-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 3vw;
+  gap: 2vw;
+}
+
+.video-item {
+  flex: 0 1 47%; /* ~50% width minus spacing */
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .video-item {
+    flex: 0 1 100%;
+  }
+}
